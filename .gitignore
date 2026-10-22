@@ -1,0 +1,8 @@
+# Data xSpec32 creates when it is run from this folder
+Device List/
+Downloads/
+Drivers/
+xSpec32.ini
+
+# The release zip is attached to the GitHub release, not committed
+xSpec32.zip
